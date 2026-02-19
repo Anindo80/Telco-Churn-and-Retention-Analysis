@@ -49,6 +49,10 @@ As revenue and performance are directly impacted by customer churn, the company 
 -	Switch to annual or long-term contract plans from month-to-month plans 
 -	Use a machine learning model to predict customer behavior and identify high risk customers 
 
+---
+
+## Dashboard Preview:
+<img width="2074" height="1093" alt="image" src="https://github.com/user-attachments/assets/416d9eba-ee47-498a-93af-ead1668ff498" />
 
 
 
