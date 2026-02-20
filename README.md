@@ -1,4 +1,4 @@
-# Telco Q3 Churn and Retention Analysis
+# Telco Churn and Retention Analysis
 
 ---
 
