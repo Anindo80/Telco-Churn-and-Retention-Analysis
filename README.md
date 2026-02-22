@@ -58,7 +58,7 @@ As revenue and performance are directly impacted by customer churn, the company 
 ---
 
 ## Dashboard Preview:
-<img width="2074" height="1093" alt="image" src="https://github.com/user-attachments/assets/416d9eba-ee47-498a-93af-ead1668ff498" />
+<img width="2077" height="1048" alt="image" src="https://github.com/user-attachments/assets/6781faa0-3c58-4636-9781-1b1d386dc7e8" />
 
 
 
